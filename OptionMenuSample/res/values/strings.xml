@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OptionMenuSample</string>
+    <string name="action_settings1">Settings1</string>
+    <string name="action_settings2">Settings2</string>
+    <string name="action_settings3">Settings3</string>
+    <string name="action_sub_settings">Sub Settings</string>
+    
+    <string name="action_sub_string1">Sub Item1</string>
+    <string name="action_sub_string2">Sub Item2</string>
+    <string name="action_sub_string3">Sub Item3</string>
+    
+    <string name="hello_world">Hello world!</string>
+
+</resources>
